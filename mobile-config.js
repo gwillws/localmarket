@@ -1,5 +1,5 @@
 App.info({
-  name: 'Local Market',
+  name: 'CarOsell',
   description: 'A recipe sharing app made in Meteor.',
   author: 'Percolate Studio Team',
   email: 'us@percolatestudio.com',
