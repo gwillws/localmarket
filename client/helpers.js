@@ -18,9 +18,9 @@ pluralize = function(n, thing, options) {
 Handlebars.registerHelper('pluralize', pluralize);
 
 var DIMENSIONS = {
-  small: '320x350',
-  large: '640x480',
-  full: '640x800'
+  small: '320x240',
+  large: '640x380',
+  full: '640x500'
 };
 
 UI.registerHelper('recipeImage', function(options) {
