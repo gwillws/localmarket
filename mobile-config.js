@@ -1,9 +1,9 @@
 App.info({
   name: 'CarOsell',
-  description: 'A recipe sharing app made in Meteor.',
-  author: 'Percolate Studio Team',
-  email: 'us@percolatestudio.com',
-  website: 'http://percolatestudio.com',
+  description: 'Buy and sell super cars.',
+  author: 'Gwill Web Services',
+  email: 'info@gwillws@gmail.com',
+  website: 'http://areyoureadyforthis.com',
   version: '0.0.1'
 });
 
